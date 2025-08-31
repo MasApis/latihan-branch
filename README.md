@@ -1,2 +1,3 @@
-# latihan-branch
-Repository ini digunakan untuk latihan menggunakan Branch
+Repository ini digunakan untuk latihan branch
+==
+Repository ini dikembangkan bersama dengan @MasApis3105
